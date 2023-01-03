@@ -2,7 +2,7 @@
 
 ## Description
 
-This site is built with the basic's of HTML and CSS.
+This site is built with the basic's of HTML and CSS. This project is unresponsive and not mobile friendly.
 
 ## What I learned:
 
