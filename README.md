@@ -15,6 +15,9 @@ This site is built with the basic's of HTML and CSS. For now this project is non
 ## Addition to original project:
 - Features page
 
+### In the works project:
+- Add mobile responsive
+
 ## Credits
 
 [Brad Traversy](https://traversymedia.com/#courses)
